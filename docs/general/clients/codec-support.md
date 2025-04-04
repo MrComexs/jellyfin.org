@@ -48,7 +48,7 @@ The goal is to Direct Play all media. This means the container, video, audio and
 <br />
 <sup>12</sup>Need to be manually enabled in Settings > Playback > Enable H.264 High 10 Profile. Playback on Apple Silicon Macs with macOS version < 14 and Intel Macs with all macOS versions may result in blank frames if this is enabled.
 <br />
-<sup>13</sup>HEVC software decoding is supported with the installtion of the <a href="https://www.microsoft.com/store/productId/9NMZLZ57R3T7">HEVC Video Extensions</a> from the Microsoft store on Windows 10/11. HEVC hardware decoding is supported if device has hardware acceleration dedicated for HEVC.
+<sup>13</sup>HEVC software decoding is supported with the installation of the <a href="https://www.microsoft.com/store/productId/9NMZLZ57R3T7">HEVC Video Extensions</a> from the Microsoft store on Windows 10/11. HEVC hardware decoding is supported if device has hardware acceleration dedicated for HEVC.
 
 [Format Cheatsheet:](https://en.wikipedia.org/wiki/MPEG-4#MPEG-4_Parts)
 
